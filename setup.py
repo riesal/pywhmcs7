@@ -15,9 +15,9 @@ install_requires = [
 
 
 setup(
-    name='pywhmcs7',
+    name='pywhmcs6',
     version=version,
-    description="WHMCS 7.x Client Library",
+    description="WHMCS 6.x Client Library",
     long_description=README + '\n\n' + NEWS,
     classifiers=[
         "Development Status :: 1 - Planning",
@@ -33,7 +33,7 @@ setup(
         "Programming Language :: Python :: 2.7",
         "Topic :: Internet :: WWW/HTTP",
     ],
-    keywords='whmcs v.7.x library http api',
+    keywords='whmcs v.6.x library http api',
     author='Muhammad Fahrizal Rahman',
     author_email='riesal@gmail.com',
     url='https://github.com/riesal/pywhmcs7',
@@ -44,6 +44,6 @@ setup(
     install_requires=install_requires,
     entry_points={
         'console_scripts':
-            ['pywhmcs7=pywhmcs7:main']
+            ['pywhmcs6=pywhmcs6:main']
     }
 )
