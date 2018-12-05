@@ -7,7 +7,7 @@ from whmcs import invoke
 
 def main():
     parser = argparse.ArgumentParser(
-        description="pyWHMCS Client Command Line Interface")
+        description="pyWHMCS7 Client Command Line Interface")
     parser.add_argument("--verbose",
                         action="store_true",
                         help="Activate verbose output")
