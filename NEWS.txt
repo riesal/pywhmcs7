@@ -1,0 +1,27 @@
+News
+====
+
+0.0.3
+-----
+
+*Release date: UNRELEASED*
+
+* pypi classifiers added to setup.py
+* CLI parameter added for request response type
+* simplejson dependency removed. returning raw text.
+
+0.0.2
+-----
+
+*Release date: 17.01.2012*
+
+* TODO section of README updated
+
+0.0.1
+-----
+
+*Release date: 17.01.2013*
+
+* CLI interface prepared.
+* CLI parameter format and model implemented.
+* invoke function implemented. now tool can make any kind of API call to WHMCS
