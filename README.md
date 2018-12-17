@@ -1,2 +1,2 @@
 # pywhmcs7
-whmcs api for python
+whmcs cli for python
